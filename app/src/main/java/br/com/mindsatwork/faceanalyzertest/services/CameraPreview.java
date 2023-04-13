@@ -64,7 +64,7 @@ public class CameraPreview extends SurfaceView implements SurfaceHolder.Callback
         this.holder.setType(SurfaceHolder.SURFACE_TYPE_PUSH_BUFFERS);
 
         this.faceAnalyser = FaceAnalyser.build(
-                "/storage/emulated/0/FRSDK/activationkey-SDK-9.6.X.cfg"
+                "/storage/emulated/0/FRSDK/activationkey-SDK-9.7.X.cfg"
             ,   0.85F
             ,   0.2F
             ,   0.8F
